@@ -30,5 +30,59 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>AlmReference</fullName>
+        <trackHistory>true</trackHistory>
+    </fields>
+    <fields>
+        <fullName>Description</fullName>
+        <trackHistory>true</trackHistory>
+    </fields>
+    <fields>
+        <fullName>Edition</fullName>
+    </fields>
+    <fields>
+        <fullName>ExpirationDate</fullName>
+    </fields>
+    <fields>
+        <fullName>Features</fullName>
+    </fields>
+    <fields>
+        <fullName>Id</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>LastLoginDate</fullName>
+    </fields>
+    <fields>
+        <fullName>Namespace</fullName>
+    </fields>
+    <fields>
+        <fullName>OrgName</fullName>
+    </fields>
+    <fields>
+        <fullName>ScratchOrg</fullName>
+        <trackHistory>true</trackHistory>
+    </fields>
+    <fields>
+        <fullName>ScratchOrgInfoId</fullName>
+        <trackHistory>true</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>SignupEmail</fullName>
+    </fields>
+    <fields>
+        <fullName>SignupInstance</fullName>
+    </fields>
+    <fields>
+        <fullName>SignupTrialDays</fullName>
+    </fields>
+    <fields>
+        <fullName>SignupUsername</fullName>
+    </fields>
+    <fields>
+        <fullName>Template</fullName>
+    </fields>
     <sharingModel>Private</sharingModel>
 </CustomObject>

@@ -26,6 +26,10 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>NamespacePrefix</fullName>
+        <trackHistory>true</trackHistory>
+    </fields>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
